@@ -12,4 +12,4 @@ Go into the folder where the files are located and type.
 
 pip install -r requirements.txt
 
-open in idle and run the code.
+open Python idle and run the code.
